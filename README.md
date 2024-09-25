@@ -11,8 +11,3 @@ I’m currently focused on improving my skills in Data Structures & Algorithms a
 ![](https://github-readme-stats.vercel.app/api?username=uditya2004&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uditya2004&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uditya2004&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=uditya2004&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
